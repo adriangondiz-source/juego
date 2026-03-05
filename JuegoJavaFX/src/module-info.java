@@ -9,4 +9,5 @@ module JuegoJavaFX {
     requires javafx.fxml;
 
     exports application;
+    exports pruevaFondo;
 }
